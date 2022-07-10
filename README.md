@@ -1,4 +1,6 @@
-First, NPM INSTALL.
+## Dummy App for ConfigCat Feature Flag Sample
+
+First, hit `npm install` in the terminal.
 
 ## Available Scripts
 
