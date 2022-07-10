@@ -1,11 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Upright&family=EB+Garamond&family=Finger+Paint&family=Kalam&display=swap");
+
 .App {
   text-align: center;
 }
 
 h1 {
-  font-family: 'Bigelow Rules';
+  font-family: "Bigelow Rules";
   font-size: 72px;
   color: #0ccac4;
+}
+
+h2 {
+  font-family: 'Kalam', cursive;
+  font-size: 27px;
 }
 
 .App-logo {

@@ -12,6 +12,24 @@
   transition: transform 0.25s ease-out;
 }
 
+button {
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+span {
+  background-color: red;
+  letter-spacing: 2px;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 2px 5px;
+}
+
 .card-container:hover {
   transform: scale(1.05);
 }
