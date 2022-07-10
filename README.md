@@ -3,10 +3,10 @@
 First, hit `npm install` in the terminal.
 
 ## How it works
-This is a dummy app I coded a while ago. You can ignore the search functionality. It just returns based on the name.
-I've used it now to test ConfigCat's Very Basic Features!
-All of the characters will have the FIRST Feature Flag enabled, but only one of them will have the SECOND.
-Hmmm, this sounds like a job for the Scooby Gang. Discover him and win a Scooby Snacks!
+This is a dummy app I coded a while ago. You can ignore the search functionality. It just returns based on the name. <br>
+I've used it now to test ConfigCat's Very Basic Features! <br>
+All of the characters will have the FIRST Feature Flag enabled, but only one of them will have the SECOND. <br>
+Hmmm, this sounds like a job for the Scooby Gang. Discover him and win a Scooby Snacks! <br>
 
 ## Available Scripts
 
