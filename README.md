@@ -1,6 +1,6 @@
 ## Dummy App for ConfigCat Feature Flag Sample
 
-First, hit `npm install` in the terminal.
+First, hit `npm install` in the project directory.
 
 ## How it works
 This is a dummy app I coded a while ago. You can ignore the search functionality. It just returns based on the name. <br>
