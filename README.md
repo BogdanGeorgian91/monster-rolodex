@@ -1,6 +1,12 @@
 ## Dummy App for ConfigCat Feature Flag Sample
 
-First, hit `npm install` in the terminal.
+First, hit `npm install` in the project directory.
+
+## How it works
+This is a dummy app I coded a while ago. You can ignore the search functionality. It just returns based on the name. <br>
+I've used it now to test ConfigCat's Very Basic Features! <br>
+All of the characters will have the FIRST Feature Flag enabled, but only one of them will have the SECOND. <br>
+Hmmm, this sounds like a job for the Scooby Gang. Discover him and win a Scooby Snacks! <br>
 
 ## Available Scripts
 
@@ -8,7 +14,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode. It should automatically open the app in the browser. \
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
